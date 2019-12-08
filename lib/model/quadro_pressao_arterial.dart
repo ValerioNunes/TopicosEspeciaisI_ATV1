@@ -1,0 +1,1 @@
+enum QuadroPressaoArterial{Pressao_Normal, Limitrofe, Alta, ForaDeRange}
